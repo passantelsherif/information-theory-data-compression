@@ -2,23 +2,6 @@
 
 A comprehensive collection of four distinct data compression and information theory implementations covering classical and modern compression algorithms. This project was completed for the Information Theory and Data Compression course.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Repository Structure](#repository-structure)
-- [Assignments Summary](#assignments-summary)
-  - [1. LZ77 Compression](#1-lz77-compression)
-  - [2. Huffman Coding](#2-huffman-coding)
-  - [3. Vector Quantization](#3-vector-quantization)
-  - [4. Adaptive 2D Predictors (DPCM)](#4-adaptive-2d-predictors-dpcm)
-- [Getting Started](#getting-started)
-- [Installation & Setup](#installation--setup)
-- [Usage Guide](#usage-guide)
-- [Technical Details](#technical-details)
-- [Performance Analysis](#performance-analysis)
-- [Contributors](#contributors)
-- [License](#license)
-
 ---
 
 ## 🎯 Overview
@@ -1038,9 +1021,9 @@ VQ (K=64):
 ## 👥 Contributors
 
 This project was completed by:
-- **Passant Shaaban Abdelazim** (20231036)
-- **Omar Hany Tohami** (20230269)
-- **Omar Bassam Mahmoud** (20230248)
+- **Passant Shaaban Abdelazim** 
+- **Omar Hany Tohami** 
+- **Omar Bassam Mahmoud** 
 
 **Course**: Information Theory and Data Compression  
 **Institution**: Cairo University, Faculty of Computers & Artificial Intelligence
